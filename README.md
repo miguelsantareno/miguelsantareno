@@ -18,6 +18,6 @@
   - https://www.chainabuse.com/profile/MiguelSantareno
   - https://threatfox.abuse.ch/user/41127/
 
-⚡100 HoFs can be found on this gitub
+⚡100 HoFs can be found on this github
 
 ⚡7 Bug Bounty Live hacking Events and 2 of 3 wins playing alone in ATII Darkwebathon
