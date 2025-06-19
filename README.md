@@ -17,17 +17,14 @@
 - MCRTA
   
 ⚡Some CVEs:
-- CVE-2024-37669,
-- CVE-2024-35322,
-- CVE-2024-25814,
-- CVE-2024-25812,
-- CVE-2023-40819,
-- CVE-2023-6447,
-- CVE-2023-6046,
-- CVE-2023-6005,
-- CVE-2023-5238
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39037
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35322
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-6447
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-6005
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4953
 
 ⚡Some Exploits:
+- 
 
 ⚡Some Public Profiles:
   - https://www.wordfence.com/threat-intel/vulnerabilities/researchers/miguel-santareno
