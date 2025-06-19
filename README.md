@@ -1,7 +1,7 @@
 ## OSINT, Darknet, Bug Bounty 👋
 
 ⚡Some Certifications:
-- CACTI, CTIP, CTIS-I, CTIS-II, CCI, CSI-COA, CSI-CDWI, eCPPT, eWPT, eWPTX, CEH, C)PTE, MCBTA,MCRTA
+- CACTI, CTIP, CTIS-I, CTIS-II, CCI, CSI-COA, CSI-CDWI, eCPPT, eWPT, eWPTX, CEH, C)PTE, MCBTA, MCRTA
 
 ⚡Some CVEs:
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39037
