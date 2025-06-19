@@ -1,30 +1,14 @@
-## OSINT, Darknet, Bug Bounty  👋
+## OSINT, Darknet, Bug Bounty 👋
 
 ⚡Some Certifications:
-- CACTI,
-- CTIP,
-- CTIS-I,
-- CTIS-II,
-- CCI,
-- CSI-COA,
-- CSI-CDWI,
-- eCPPT,
-- eWPT,
-- eWPTX,
-- CEH,
-- C)PTE,
-- MCBTA,
-- MCRTA
-  
+- CACTI, CTIP, CTIS-I, CTIS-II, CCI, CSI-COA, CSI-CDWI, eCPPT, eWPT, eWPTX, CEH, C)PTE, MCBTA,MCRTA
+
 ⚡Some CVEs:
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39037
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35322
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-6447
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-6005
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4953
-
-⚡Some Exploits:
-- 
 
 ⚡Some Public Profiles:
   - https://www.wordfence.com/threat-intel/vulnerabilities/researchers/miguel-santareno
