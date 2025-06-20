@@ -25,8 +25,8 @@
   - [Elementor <= 3.5.5 - Iframe Injection](https://wpscan.com/vulnerability/8273357e-f9e1-44bc-8082-8faab838eda7)
 
 ⚡Best performances in Live Events from Bug Bounty, OSINT and Dark Net:
- - [Intigriti Live Hacking Event - Spring Heist 2025 - rank 6/30](https://miguelsantareno.github.io/SPRING_Heist.png)
  - [Intigriti 1337UP1023 live hacking event Knights Of Elektron](https://twitter.com/intigriti/status/1716428981115797948)[Top 5 teams with XGS](https://miguelsantareno.github.io/1337teams.png)
+ - [Intigriti Live Hacking Event - Spring Heist 2025 - rank 11/30](https://miguelsantareno.github.io/SPRING_Heist.png)
  - [Contestant - Trace Labs Global OSINT Search Party](https://ca.badgr.com/public/assertions/ThYVNiOCSEOgqxe8SGPuww)[2023.02 - rank 6/220](https://miguelsantareno.github.io/tracelabs_score.png)
  - [Contestant - Global OSINT Search Party CTF DEFCON 31](https://ca.badgr.com/public/assertions/QYBLGlpeTJm0D7yWabSS4w)[2023.08 - rank 8/114](https://miguelsantareno.github.io/defcon31.png)
  - [Anti-Human Trafficking Intelligence Initiative Announces Results of Global Dark Web Hackathon 2023](https://www.linkedin.com/pulse/anti-human-trafficking-intelligence-1c/)
