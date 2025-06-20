@@ -17,6 +17,7 @@
   - [Intigriti](https://www.intigriti.com/researcher/profile/miguelsantareno)
   - [ChainAbuse](https://www.chainabuse.com/profile/MiguelSantareno)
   - [threatfox](https://threatfox.abuse.ch/user/41127/)
+  - [Exploit Database](https://www.exploit-db.com/?author=9699)
 
 ⚡Some Exploits:
   - [Nyron 1.0 - SQLi (Unauthenticated)](https://www.exploit-db.com/exploits/50674)
@@ -32,10 +33,10 @@
  - [Anti-Human Trafficking Intelligence Initiative Announces Results of Global Dark Web Hackathon 2023](https://www.linkedin.com/pulse/anti-human-trafficking-intelligence-1c/)
  - [ATII Darkwebathon - Participant - 2022 - 4th place - cobalt badge](https://ca.badgr.com/public/assertions/dVRkzM42RtuedJYy911vBg)
 
-⚡Some Talks:
- - [C-days 2023 9ª edição Porto](https://www.youtube.com/watch?v=NwAtJSBRVaA)
- - [C-days Açores 2023](https://www.youtube.com/watch?v=fJPEydmas4E)
- - [WordCamp Porto 2024](https://porto.wordcamp.org/2024/schedule/)
+⚡Some Blog mentions:
+ - [Data is beautiful and Darkwebathon 2022 has showed us how](https://www.maltego.com/blog/data-is-beautiful-and-the-darkwebathon-2022-have-showed-us-how/)
+ - [Security Affairs "The new maxtrilha trojan is being disseminated and targeting several banks"](https://securityaffairs.com/122134/malware/maxtrilha-banking-trojan.html)
+ - [Segurança Informatica "A taste of the latest release of QakBot"](https://seguranca-informatica.pt/a-taste-of-the-latest-release-of-qakbot/#.YRb_n4hKiUl)
 
 ⚡100 HoFs can be found on this github.
 
