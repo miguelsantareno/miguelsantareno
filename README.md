@@ -1,23 +1,41 @@
 ## OSINT, Darknet, Bug Bounty 👋
 
 ⚡Some Certifications:
-- CACTI, CTIP, CTIS-I, CTIS-II, CCI, CSI-COA, CSI-CDWI, eCPPT, eWPT, eWPTX, CEH, C)PTE, MCBTA, MCRTA
+  - CACTI, CTIP, CTIS-I, CTIS-II, CCI, CSI-COA, CSI-CDWI, eCPPT, eWPT, eWPTX, CEH, C)PTE, MCBTA, MCRTA
 
 ⚡Some CVEs:
-- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39037
-- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35322
-- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-6447
-- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-6005
-- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4953
+  - [CVE-2024-39037](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39037)
+  - [CVE-2024-35322](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35322)
+  - [CVE-2023-6447](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-6447)
+  - [CVE-2023-6005](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-6005)
+  - [CVE-2022-4953](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4953)
 
 ⚡Some Public Profiles:
-  - https://www.wordfence.com/threat-intel/vulnerabilities/researchers/miguel-santareno
-  - https://hackerone.com/miguel_santareno
-  - https://bugcrowd.com/MiguelSantareno
-  - https://www.intigriti.com/researcher/profile/miguelsantareno
-  - https://www.chainabuse.com/profile/MiguelSantareno
-  - https://threatfox.abuse.ch/user/41127/
+  - [Wordfence](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/miguel-santareno)
+  - [Hackerone](https://hackerone.com/miguel_santareno)
+  - [Bugcrowd](https://bugcrowd.com/MiguelSantareno)
+  - [Intigriti](https://www.intigriti.com/researcher/profile/miguelsantareno)
+  - [ChainAbuse](https://www.chainabuse.com/profile/MiguelSantareno)
+  - [threatfox](https://threatfox.abuse.ch/user/41127/)
 
-⚡100 HoFs can be found on this github
+⚡Some Exploits:
+  - [Nyron 1.0 - SQLi (Unauthenticated)](https://www.exploit-db.com/exploits/50674)
+  - [EventPrime < 3.2.0 - Reflected XSS](https://wpscan.com/vulnerability/9c271619-f478-45c3-91d9-be0f55ee06a2)
+  - [EventON < 2.1.2 - Unauthenticated Event Access](https://wpscan.com/vulnerability/e9ef793c-e5a3-4c55-beee-56b0909f7a0d)
+  - [Elementor <= 3.5.5 - Iframe Injection](https://wpscan.com/vulnerability/8273357e-f9e1-44bc-8082-8faab838eda7)
 
-⚡7 Bug Bounty Live hacking Events and 2 of 3 wins playing alone in ATII Darkwebathon
+⚡Best performances in Live Events from Bug Bounty, OSINT and Dark Net:
+ - [Intigriti Live Hacking Event - Spring Heist 2025 - rank 6/30](https://miguelsantareno.github.io/SPRING_Heist.png)
+ - [Intigriti 1337UP1023 live hacking event Knights Of Elektron](https://twitter.com/intigriti/status/1716428981115797948)[Top 5 teams with XGS](https://miguelsantareno.github.io/1337teams.png)
+ - [Contestant - Trace Labs Global OSINT Search Party](https://ca.badgr.com/public/assertions/ThYVNiOCSEOgqxe8SGPuww)[2023.02 - rank 6/220](https://miguelsantareno.github.io/tracelabs_score.png)
+ - [Contestant - Global OSINT Search Party CTF DEFCON 31](https://ca.badgr.com/public/assertions/QYBLGlpeTJm0D7yWabSS4w)[2023.08 - rank 8/114](https://miguelsantareno.github.io/defcon31.png)
+ - [Anti-Human Trafficking Intelligence Initiative Announces Results of Global Dark Web Hackathon 2023](https://www.linkedin.com/pulse/anti-human-trafficking-intelligence-1c/)
+ - [ATII Darkwebathon - Participant - 2022 - 4th place - cobalt badge](https://ca.badgr.com/public/assertions/dVRkzM42RtuedJYy911vBg)
+
+⚡Some Talks:
+ - [C-days 2023 9ª edição Porto](https://www.youtube.com/watch?v=NwAtJSBRVaA)
+ - [C-days Açores 2023](https://www.youtube.com/watch?v=fJPEydmas4E)
+ - [WordCamp Porto 2024](https://porto.wordcamp.org/2024/schedule/)
+
+⚡100 HoFs can be found on this github.
+
