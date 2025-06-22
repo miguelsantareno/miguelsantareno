@@ -11,12 +11,12 @@
   - [CVE-2022-4953](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4953)
 
 ⚡Some Public Profiles:
-  - [Wordfence](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/miguel-santareno)
   - [Hackerone](https://hackerone.com/miguel_santareno)
   - [Bugcrowd](https://bugcrowd.com/MiguelSantareno)
   - [Intigriti](https://www.intigriti.com/researcher/profile/miguelsantareno)
   - [ChainAbuse](https://www.chainabuse.com/profile/MiguelSantareno)
   - [threatfox](https://threatfox.abuse.ch/user/41127/)
+  - [Wordfence](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/miguel-santareno)
   - [Exploit Database](https://www.exploit-db.com/?author=9699)
 
 ⚡Some Exploits:
