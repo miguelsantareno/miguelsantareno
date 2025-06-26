@@ -40,5 +40,6 @@
 
 ⚡100 HoFs can be found on this github.
 
-⚡Contributed to Bugcrowd Vulnerability Rating Taxonomy (VRT) with a New Vulnerability Addition Request - Indicators of Attack (IoAs) [https://github.com/bugcrowd/vulnerability-rating-taxonomy/issues/466](https://github.com/bugcrowd/vulnerability-rating-taxonomy/issues/466)
+⚡Contributed to Bugcrowd Vulnerability Rating Taxonomy (VRT):
+ - Vulnerability Addition Request - Indicators of Attack (IoAs) [https://github.com/bugcrowd/vulnerability-rating-taxonomy/issues/466](https://github.com/bugcrowd/vulnerability-rating-taxonomy/issues/466)
 
