@@ -28,8 +28,8 @@
 ⚡Best performances in Live Events from Bug Bounty, OSINT and Dark Net:
  - [Intigriti 1337UP1023 live hacking event Knights Of Elektron](https://twitter.com/intigriti/status/1716428981115797948)[Top 5 teams with XGS](https://miguelsantareno.github.io/1337teams.png)
  - [Intigriti Live Hacking Event - Spring Heist 2025 - rank 11/30](https://miguelsantareno.github.io/SPRING_Heist.png)
- - [Contestant - Trace Labs Global OSINT Search Party](https://ca.badgr.com/public/assertions/ThYVNiOCSEOgqxe8SGPuww)[2023.02 - rank 6/220](https://miguelsantareno.github.io/tracelabs_score.png)
- - [Contestant - Global OSINT Search Party CTF DEFCON 31](https://ca.badgr.com/public/assertions/QYBLGlpeTJm0D7yWabSS4w)[2023.08 - rank 8/114](https://miguelsantareno.github.io/defcon31.png)
+ - [Contestant - Trace Labs Global OSINT Search Party 2023.02 ](https://ca.badgr.com/public/assertions/ThYVNiOCSEOgqxe8SGPuww)[- rank 6/220](https://miguelsantareno.github.io/tracelabs_score.png)
+ - [Contestant - Global OSINT Search Party CTF DEFCON 31 2023.08](https://ca.badgr.com/public/assertions/QYBLGlpeTJm0D7yWabSS4w)[ - rank 8/114](https://miguelsantareno.github.io/defcon31.png)
  - [Anti-Human Trafficking Intelligence Initiative Announces Results of Global Dark Web Hackathon 2023](https://www.linkedin.com/pulse/anti-human-trafficking-intelligence-1c/)
  - [ATII Darkwebathon - Participant - 2022 - 4th place - cobalt badge](https://ca.badgr.com/public/assertions/dVRkzM42RtuedJYy911vBg)
 
