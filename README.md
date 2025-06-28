@@ -25,6 +25,12 @@
   - [EventON < 2.1.2 - Unauthenticated Event Access](https://wpscan.com/vulnerability/e9ef793c-e5a3-4c55-beee-56b0909f7a0d)
   - [Elementor <= 3.5.5 - Iframe Injection](https://wpscan.com/vulnerability/8273357e-f9e1-44bc-8082-8faab838eda7)
 
+⚡Some Vulnerability Disclosures:
+  - [Accessing Mars 2020 Genetic Inventory collection on a NASA subdomain](https://bugcrowd.com/disclosures/33bcaa1d-d273-4587-94b8-b3f7d99284a5/leaked-valid-credentials-on-nasa-subdomain)
+  - [Indicators Of compromise - Hacked Accounts and Defacement on a NASA subdomain](https://bugcrowd.com/disclosures/df290ac2-4b50-431e-911c-b6b376d99408/indicators-of-compromise-hacked-accounts-and-defacement)
+  - [Time-Based SQL Injection on Portuguese National Cyber Security Centre (CNCS) asset](https://miguelsantareno.github.io/cncs.pdf)
+  - [SQL Injection on EDP subdomain](https://miguelsantareno.github.io/edp.pdf)
+  
 ⚡Best performances in Live Events from Bug Bounty, OSINT and Dark Net:
  - [Intigriti 1337UP1023 live hacking event Knights Of Elektron](https://twitter.com/intigriti/status/1716428981115797948)[Top 5 teams with XGS](https://miguelsantareno.github.io/1337teams.png)
  - [Intigriti Live Hacking Event - Spring Heist 2025 - rank 11/30](https://miguelsantareno.github.io/SPRING_Heist.png)
