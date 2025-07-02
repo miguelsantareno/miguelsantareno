@@ -46,6 +46,9 @@
 
 ⚡100 HoFs can be found on this github.
 
-⚡Contributed to Bugcrowd Vulnerability Rating Taxonomy (VRT):
+⚡Contributed to the following repositories:
  - Vulnerability Addition Request - Indicators of Attack (IoAs) [https://github.com/bugcrowd/vulnerability-rating-taxonomy/issues/466](https://github.com/bugcrowd/vulnerability-rating-taxonomy/issues/466)
-
+ - A collection of methods to learn who the owner of an IP address is [https://github.com/curated-intel/Attribution-to-IP](https://github.com/curated-intel/Attribution-to-IP)
+ - OSINT Tools for the Dark Web [https://github.com/apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
+ - Collection of Cyber Threat Intelligence sources from the deep and dark web
+ - [https://github.com/fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
