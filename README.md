@@ -4,6 +4,7 @@
   - ACTI, CTIP, CTIS-I, CTIS-II, CCI, CSI-COA, CSI-CDWI, eCPPT, eWPT, eWPTX, CEH, C)PTE, MCBTA, MCRTA, CRTA, CASA
 
 ⚡Some CVEs:
+  - [CVE-2025-52309](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-52309)
   - [CVE-2024-39037](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39037)
   - [CVE-2024-35322](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35322)
   - [CVE-2023-6447](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-6447)
