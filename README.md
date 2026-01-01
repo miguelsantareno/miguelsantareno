@@ -40,6 +40,12 @@
  - [Anti-Human Trafficking Intelligence Initiative Announces Results of Global Dark Web Hackathon 2023](https://www.linkedin.com/pulse/anti-human-trafficking-intelligence-1c/)
  - [ATII Darkwebathon - Participant - 2022 - 4th place - cobalt badge](https://ca.badgr.com/public/assertions/dVRkzM42RtuedJYy911vBg)
 
+ ⚡Speaker at conferences like:
+ - IT Security Conference 2025 4º edição
+ - WordCamp Porto 2024
+ - C-days Açores 2023
+ - C-days 2023 9ª edição Porto
+ 
 ⚡Some Blog mentions:
  - [Data is beautiful and Darkwebathon 2022 has showed us how](https://www.maltego.com/blog/data-is-beautiful-and-the-darkwebathon-2022-have-showed-us-how/)
  - [Security Affairs "The new maxtrilha trojan is being disseminated and targeting several banks"](https://securityaffairs.com/122134/malware/maxtrilha-banking-trojan.html)
