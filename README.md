@@ -41,10 +41,10 @@
  - [ATII Darkwebathon - Participant - 2022 - 4th place - cobalt badge](https://ca.badgr.com/public/assertions/dVRkzM42RtuedJYy911vBg)
 
  ⚡Speaker at conferences like:
- - IT Security Conference 2025 4º edição
- - WordCamp Porto 2024
- - C-days Açores 2023
- - C-days 2023 9ª edição Porto
+ - [IT Security Conference 2025 4º edição](https://www.youtube.com/watch?v=LuIUNpRlQnM)
+ - [WordCamp Porto 2024](https://wordpress.tv/2024/05/21/hunting-zero-days-on-wordpress-plugins-and-making-profit/)
+ - [C-days Açores 2023](https://www.youtube.com/watch?v=fJPEydmas4E)
+ - [C-days 2023 9ª edição Porto](https://www.youtube.com/watch?v=NwAtJSBRVaA)
  
 ⚡Some Blog mentions:
  - [Data is beautiful and Darkwebathon 2022 has showed us how](https://www.maltego.com/blog/data-is-beautiful-and-the-darkwebathon-2022-have-showed-us-how/)
